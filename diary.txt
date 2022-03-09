@@ -1,0 +1,2 @@
+3/9/2022:
+Created diary.txt to test git branching between "main" and "sam"
